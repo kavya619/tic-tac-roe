@@ -1,2 +1,2 @@
-# tic-tac-roe
+# tic-tac-toe
 This my first GIT Repository.
