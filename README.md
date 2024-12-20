@@ -13,12 +13,14 @@ ii)CSS: For styling the game board and creating a visually appealing design.
 iii)JavaScript: For implementing the game logic and interactivity.
 
 Folder Structure
+
 📂 tic-tac-toe
+
 ├── 📄 index.html   
 ├── 📂 css          
 │   └── styles.css  
 ├── 📂 js         
 │   └── script.js   
-└── 📄 README.md    #
+└── 📄 README.md   
 
 
