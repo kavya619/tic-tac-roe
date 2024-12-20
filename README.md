@@ -14,11 +14,11 @@ iii)JavaScript: For implementing the game logic and interactivity.
 
 Folder Structure
 📂 tic-tac-toe
-├── 📄 index.html   # Main HTML file
-├── 📂 css          # Folder containing styles
-│   └── styles.css  # Styling for the game
-├── 📂 js           # Folder containing scripts
-│   └── script.js   # Game logic and interactivity
-└── 📄 README.md    # Project documentation
+├── 📄 index.html   
+├── 📂 css          
+│   └── styles.css  
+├── 📂 js         
+│   └── script.js   
+└── 📄 README.md    #
 
 
